@@ -10,3 +10,6 @@ __pycache__/
 
 *.zip
 
+/Labs/Lab 3/model.pth
+/Labs/Lab 3/model_weights.pth
+/Labs/Lab 3/data/
